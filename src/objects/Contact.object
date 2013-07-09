@@ -78,6 +78,14 @@
         <type>Url</type>
     </fields>
     <fields>
+        <fullName>Jenkins_fourth__c</fullName>
+        <externalId>false</externalId>
+        <label>Jenkins fourth</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Url</type>
+    </fields>
+    <fields>
         <fullName>Jenkins_sec_URL__c</fullName>
         <externalId>false</externalId>
         <label>Jenkins sec URL</label>
