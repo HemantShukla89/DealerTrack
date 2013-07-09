@@ -240,6 +240,14 @@
         <type>Picklist</type>
     </fields>
     <fields>
+        <fullName>Jenkins_URL__c</fullName>
+        <externalId>false</externalId>
+        <label>Jenkins URL</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Url</type>
+    </fields>
+    <fields>
         <fullName>NumberofLocations__c</fullName>
         <externalId>false</externalId>
         <label>Number of Locations</label>

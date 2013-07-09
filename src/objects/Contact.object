@@ -70,6 +70,22 @@
         <type>Lookup</type>
     </fields>
     <fields>
+        <fullName>Jenkins_URL__c</fullName>
+        <externalId>false</externalId>
+        <label>Jenkins URL</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Url</type>
+    </fields>
+    <fields>
+        <fullName>Jenkins_sec_URL__c</fullName>
+        <externalId>false</externalId>
+        <label>Jenkins sec URL</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Url</type>
+    </fields>
+    <fields>
         <fullName>Languages__c</fullName>
         <externalId>false</externalId>
         <label>Languages</label>
@@ -135,6 +151,14 @@
     <fields>
         <fullName>ReportsToId</fullName>
         <type>Lookup</type>
+    </fields>
+    <fields>
+        <fullName>Third_jenkins__c</fullName>
+        <externalId>false</externalId>
+        <label>Third  jenkins</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Url</type>
     </fields>
     <listViews>
         <fullName>AllContacts</fullName>
